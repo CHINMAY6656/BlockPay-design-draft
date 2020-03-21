@@ -1,0 +1,62 @@
+.title{
+    background-color: #413c69;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: aliceblue;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+    background-color: #413c69;
+}
+.logo{
+    display: block;
+    margin: 2rem auto 2rem auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 20%;
+
+}
+.phone-img{
+    display: block;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 11%;
+}
+.nav_txt{
+    display: block;
+    margin: 0.5rem auto 0.7rem auto;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.btn{
+    margin: 1rem;
+}
+.img-fluid{
+    display: block;
+    margin: 2rem auto 2rem auto ;
+}
+.text-head{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    margin-top: 5rem;
+}.btn-center{
+    display: block;
+    margin: 2.5rem auto auto auto;
+}
+.features{
+    margin: 5rem 1rem;
+}
+.lnk{
+    color: black;
+    display: block;
+    margin: auto;
+}
+.map{
+    display: block;
+    margin: auto;
+}
